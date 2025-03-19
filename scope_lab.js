@@ -9,3 +9,6 @@ const globalConst = "I'm a global constant";
     let blockLet = "I'm a block-scoped let";
     const blockConst = "I'm a block-scoped const"
 }
+console.log(globalVar);
+console.log(globalLet);
+console.log(globalConst);
